@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+Z9FefAUMTF0VDPmiVN+H3+jApg0SP8GzkeMnKgr9thlHeSKrFUKOqmGnhpVV6NeyQG9X7BfCKC4nH3uK0tsOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AO2\\source\\repos\\Meteorologically\\Meteorologically\\Meteorologically.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AO2\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
